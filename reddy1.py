@@ -4,4 +4,4 @@ if (x%2==0 and x<100000):
 elif(x%2!=0 and x<100000:
     print"odd"
 else:
-    print"invalid
+    print"invalid"
